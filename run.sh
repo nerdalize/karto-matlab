@@ -8,4 +8,4 @@ if [ -z "$exec" ]; then
 fi
 
 echo "Running '$exec' wit args '$@'"
-$exec /usr/local/MATLAB/MATLAB_Runtime/v85 $@
+$exec /usr/local/MATLAB/MATLAB_Runtime/v90 $@
